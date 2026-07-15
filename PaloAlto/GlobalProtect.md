@@ -78,4 +78,4 @@ show global-protect-gateway statistics
 
 What is the difference between the Portal and Gateway?
 
-The Portal authenticates users and tells the agent which Gateway to use. The Gateway establishes the VPN tunnel and provides secure access to resources.
+The Portal authenticates users and tells the agent which Gateway to use. The Gateway establishes the VPN tunnel and provides secure access to resources..
