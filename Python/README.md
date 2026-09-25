@@ -4,17 +4,10 @@ This folder contains Python scripts used for network engineering tasks.
 
 ## Scripts
 
-- ping.py
+- Ping.py
 - subnet_calculator.py
 - config_backup.py
 
-## Future Projects
+## More Automation
 
-- SSH Automation
-- Firewall Log Parser
-- Network Inventory
-- Bulk Ping Tool
-- VLAN Configuration Generator
-- IP Address Validator
-- Port Scanner
-- API Automation
+See [python-network-automation](https://github.com/princewillsmith/python-network-automation) for SSH automation, firewall log parsing, and inventory tools.
